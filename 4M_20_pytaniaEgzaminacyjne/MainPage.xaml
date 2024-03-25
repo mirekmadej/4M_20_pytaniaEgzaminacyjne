@@ -8,6 +8,7 @@
             Spacing="25"
             Padding="30,0"
             >
+           
             <Label 
                 Text="Pytanie nr 1/10"
                 HorizontalOptions="Center"
